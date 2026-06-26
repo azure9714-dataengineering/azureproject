@@ -1,0 +1,15 @@
+{
+	"name": "df-azproject12",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "4d5075b0-c570-4805-911e-3d8c6fa35412",
+		"tenantId": "d56425ca-5784-4972-9c64-fb69afba2383"
+	}
+}
